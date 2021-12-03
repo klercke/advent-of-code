@@ -32,7 +32,7 @@ def countIncreases(data):
 
 def main():
     # Open file, then close it once we're done reading the input
-    with open('day1/p1/p1.input', 'r') as file:
+    with open('day1/d1.input', 'r') as file:
         # Make list of each line
         data = file.readlines()
 
