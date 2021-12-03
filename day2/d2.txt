@@ -1,0 +1,8 @@
+I found the first problem today to be pretty easy and I know that I could have
+done the list reading and addition in one function, but I separated them to
+make my brain happy. Unfortunately, this won't work for problem 2, so I have
+to do this in a less-bad way. I should have just done this originally, but I 
+thought my method would be more modifiable. I was wrong. Oh well.
+
+I decided to use Minecraft axes instead of gross physics axes, so X is my
+horizontal axis and Y is my vertical.
