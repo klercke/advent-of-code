@@ -1,0 +1,9 @@
+For the first challenge, I think it would make a lot more sense to work with
+the numbers as strings and only convert them to ints when needed, but that
+seems like it would be way harder to modify at a later date if you have to
+remember that the values are really strings.
+
+On second thought, a few minutes later, I'm definitely doing that. I was
+originally using my strings2int function from the past challenges for this,
+but I'm getting rid of it for this. I don't need to strip the \n off and it
+isn't doing anything else for me.
